@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/fragment_instruction.xml" value="0.2391304347826087" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/fragment_login.xml" value="0.2630208333333333" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/fragment_new_shoe.xml" value="0.29635416666666664" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/fragment_shoe.xml" value="0.2391304347826087" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/fragment_shoe_detail.xml" value="0.24427083333333333" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/fragment_shoe_list.xml" value="0.48778004073319753" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/fragment_welcome.xml" value="0.27943840579710144" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/item_shoe.xml" value="0.2391304347826087" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/shoe_list_item.xml" value="0.2391304347826087" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/layout/shoe_list_menu.xml" value="0.2391304347826087" />
+        <entry key="..\:/Work/Udacity-Kotlin-Developer/Shoe Store/app/src/main/res/menu/shoe_list_menu.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
